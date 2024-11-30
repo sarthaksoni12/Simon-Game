@@ -1,3 +1,4 @@
+// This is a JS file for the Simon Game
 let gameseq=[];
 let userseq=[];
 
